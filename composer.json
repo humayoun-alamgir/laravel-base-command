@@ -1,0 +1,10 @@
+{
+    "name": "humayoun-alamgir/laravel-base-command",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LV\\BaseCommand\\": "src/"
+        }
+    }
+}
